@@ -1,2 +1,0 @@
-/citibike_data
-/.ipynb_checkpoints
